@@ -1,0 +1,25 @@
+:root.light {
+   --color1: #171717;
+   --color2: #bb8760;
+   --color3: #a19882;
+   --color4: #b8dfd8;
+   --color5: #e8f6ef;
+   --color6: #fef7dc;
+}
+
+:root.dark {
+   --color1: #ffe194;
+   --color2: #a19882;
+   --color3: #423f3e;
+   --color4: #2b2b2b;
+   --color5: #4b4b4b;
+   --color6: #2b1a1a;
+}
+:root {
+   --color1: #ffe194;
+   --color2: #a19882;
+   --color3: #423f3e;
+   --color4: #2b2b2b;
+   --color5: #014172;
+   --color6: #680000;
+}
